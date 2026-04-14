@@ -1,5 +1,6 @@
 enabled: true
 database:
+  deletionProtection: false
   engine: postgres
   instanceClass: db.t3.medium
 search:
